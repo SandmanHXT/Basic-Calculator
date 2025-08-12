@@ -15,14 +15,13 @@ Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básica
 - CSS3  
 - JavaScript
   
+## Autor
+
+Desenvolvido por SandmanHXT
+
 
 ## Uso
 
    ```bash
    git clone https://github.com/SandmanHXT/Basic-Calculator.git
-
-
-
-## Autor
-Desenvolvido por SandmanHXT
 
