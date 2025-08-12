@@ -3,10 +3,10 @@ Uma Calculadora simples, feita com HTML,CSS e JavaScript, capaz de Realizar oper
 
 *Funcionalidades*
 
-•Adição
-•Subtração
-•Multiplicação
-•Divisão
+•Adição;
+•Subtração;
+•Multiplicação;
+•Divisão;
 
 
 
