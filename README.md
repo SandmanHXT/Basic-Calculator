@@ -23,3 +23,6 @@ Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básica
 
 
 
+## Autor
+Desenvolvido por SandmanHXT
+
