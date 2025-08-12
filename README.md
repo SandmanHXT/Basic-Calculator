@@ -1,15 +1,19 @@
-# Calculadora Basica
-Uma Calculadora simples, feita com HTML,CSS e JavaScript, capaz de Realizar operações matemáticas básicas diretamente do navegador.
+# Calculadora Básica
 
-*Funcionalidades*
+Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básicas.
 
-•Adição
+## Funcionalidades
 
-•Subtração
+- Adição  
+- Subtração  
+- Multiplicação  
+- Divisão
 
-•Multiplicação
+## Tecnologias
 
-•Divisão
+- HTML5  
+- CSS3  
+- JavaScript
 
 
 
