@@ -18,7 +18,6 @@ Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básica
 
 ## Uso
 
-1. Clone o repositório:
    ```bash
    git clone https://github.com/SandmanHXT/Basic-Calculator.git
 
